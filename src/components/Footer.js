@@ -8,7 +8,7 @@ const Footer = () => {
         <div className="row">
           <div className="col-md-6">
             <h5>About Us</h5>
-            <p>Your company description goes here.</p>
+            <p>We are a Company with 20 employees</p>
           </div>
           <div className="col-md-6">
             <h5>Contact Us</h5>
